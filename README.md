@@ -7,7 +7,7 @@
 <br/>
 
 [![Email](https://img.shields.io/badge/-abhinav77000%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinav77000@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav77000)
 [![Location](https://img.shields.io/badge/-Kerala,%20India-6D28D9?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 </div>
@@ -26,10 +26,10 @@ Mathematics and statistics graduate with hands-on experience in machine learning
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│  M.Sc. Statistics                           2024 – 2026        │
+│  M.Sc. Statistics                           2024 – 2026         │
 │  Nirmala College Muvattupuzha                                   │
 ├─────────────────────────────────────────────────────────────────┤
-│  B.Sc. Mathematics                          2021 – 2024        │
+│  B.Sc. Mathematics                          2021 – 2024         │
 │  Nirmala College Muvattupuzha                                   │
 └─────────────────────────────────────────────────────────────────┘
 ```
@@ -93,7 +93,7 @@ Mathematics and statistics graduate with hands-on experience in machine learning
 <td width="50%">
 
 ### 📈 Time Series Forecasting
-*IIT Guwahati — Summer Analytics*
+*IIT Guwahati*
 
 Built and benchmarked forecasting models for stock price trends
 
@@ -163,19 +163,7 @@ Fraud detection on the IEEE-CIS e-commerce dataset
 
 <br/>
 
-## 🏆 Achievement
 
-> 🥇 **First Place** — Technical Quiz on AI, ML & Data Science
-> *AI Appreciation Day · Dept. of Data Science, Nirmala College Muvattupuzha*
-
-<br/>
-
-## 📣 Activities
-
-- 🎤 Resource Person — *"StatSpark: Igniting Curiosity With Data"*, National Statistics Day
-- 🧑‍🏫 Skill session on **Google Looker Studio** — Rajagiri College of Social Sciences, Kochi
-- 🌍 Coordinator — Collaborative programme with **Sefako Makgatho Health Sciences University**, South Africa
-- 🛠️ Technical workshop on software troubleshooting — Dept. of Statistics, Nirmala College
 
 <br/>
 
