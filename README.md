@@ -1,59 +1,173 @@
-Hi there, I'm Abhinav S 👋
+<div align="center">
 
-Data Analyst | Data Engineer | M.Sc. Statistics
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Abhinav%20S&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Statistics%20%C2%B7%20Data%20Science%20%C2%B7%20Machine%20Learning&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
-I am a dynamic data professional with a strong mathematical foundation, currently pursuing my M.Sc. in Statistics. I am passionate about translating raw data into business value, building scalable data pipelines, and leveraging machine learning to drive data-driven decision-making.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=M.Sc.+Statistics+Graduate;Data+Science+%26+ML+Practitioner;Building+Models+That+Matter)](https://git.io/typing-svg)
 
-🚀 About Me
+<br/>
 
-🔭 Currently working on: Analyzing public financial data and budgetary trends as a Data & Research Intern at the Centre for Budget Studies, CUSAT.
+[![Email](https://img.shields.io/badge/-abhinav77000%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinav77000@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Location](https://img.shields.io/badge/-Kerala,%20India-6D28D9?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
-🌱 Currently learning/expanding on: Advanced Time Series Forecasting, Real-Time Data Streaming, and Cloud Infrastructure (AWS/GCP).
+</div>
 
-🎓 Education: M.Sc. Statistics (2024-2026) & B.Sc. Mathematics (2021-2024) @ Nirmala College Muvattupuzha.
+<br/>
 
-👯 Looking to collaborate on: Open-source data engineering projects, end-to-end machine learning pipelines, and impactful data visualizations.
+## ⚡ About
 
-💬 Ask me about: Python, PySpark, Power BI, Statistical Modeling, and Web Scraping.
+> *Turning raw data into decisions — one model at a time.*
 
-🛠️ Tech Stack & Tools
+Mathematics and statistics graduate with hands-on experience in machine learning, deep learning, and data engineering. I enjoy building things that bridge the gap between statistical theory and real-world deployment — from forecasting models to interactive dashboards to scalable data pipelines.
 
-Languages & Databases
+<br/>
 
-Data Engineering & Cloud
+## 🎓 Education
 
-Data Analytics & BI
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  M.Sc. Statistics                           2024 – 2026        │
+│  Nirmala College Muvattupuzha                                   │
+├─────────────────────────────────────────────────────────────────┤
+│  B.Sc. Mathematics                          2021 – 2024        │
+│  Nirmala College Muvattupuzha                                   │
+└─────────────────────────────────────────────────────────────────┘
+```
 
-Machine Learning & Deployment
+<br/>
 
-💼 Experience
+## 🛠️ Skills
 
-Data & Research Intern @ Centre for Budget Studies, CUSAT (Present)
+<div align="center">
 
-Analyzing large-scale fiscal datasets and developing comprehensive reports/visualizations for policy impact.
+[![My Skills](https://skillicons.dev/icons?i=python,r,mysql,tensorflow&theme=dark)](https://skillicons.dev)
 
-Data Science Intern @ UPSTA Analytics (Nov 2025 - Dec 2025)
+</div>
 
-Analyzed 260K+ B2B invoices to optimize collection strategies, engineered big data pipelines using PySpark, and deployed ML models via Streamlit.
+<br/>
 
-🏆 Featured Projects
+| Category | Tools |
+|---|---|
+| **Languages** | Python · R · SQL · SAS |
+| **Visualisation** | Power BI · Google Looker Studio · Bokeh · Panel |
+| **Data & ML** | Scikit-learn · PySpark · Streamlit · Pathway |
+| **Deep Learning** | CNNs · LSTM · Transfer Learning · Data Augmentation |
+| **Productivity** | MS Excel Power Query · Wolfram Cloud |
+| **Cloud** | Google Cloud · AWS |
 
-🚗 Dynamic Pricing System (IIT Guwahati) (Click to add repo link)
+<br/>
 
-Tech: Python, Pathway, Bokeh, Panel, Live Streaming Data
+## 💼 Experience
 
-Description: Developed a real-time dynamic pricing model for parking lots using live streaming data. Implemented demand-based pricing logic leveraging occupancy, traffic, and queue indicators.
+<details open>
+<summary><b>🏢 Data Science Intern — UPSTA Analytics</b> &nbsp;<code>Nov 2025 – Dec 2025</code></summary>
 
-📈 Time Series Forecasting Project (IIT Guwahati) (Click to add repo link)
+<br/>
 
-Tech: Python, ARIMA, Prophet, GARCH, LSTM
+- 🔍 Analysed **260,000+ B2B invoices** to optimise collection strategies using EDA
+- 🤖 Automated data extraction via web scraping and deployed predictive ML models using **Streamlit**
+- ⚙️ Engineered scalable big data pipelines using **PySpark** on cloud infrastructure
 
-Description: Built and trained predictive models to forecast stock price trends based on historical market data. Evaluated prediction accuracy using RMSE.
+</details>
 
-💰 Top Billionaires Power BI Dashboard (Click to add repo link)
+<br/>
 
-Tech: Power BI, MS Excel Power Query, Web Scraping
+## 🚀 Projects
 
-Description: Developed an interactive dashboard analyzing the Forbes Top Billionaires dataset. Visualized trends in net worth, geographic distribution, and industry sectors.
+<table>
+<tr>
+<td width="50%">
 
-⚡ GitHub Stats
+### 📈 Time Series Forecasting
+*IIT Guwahati — Summer Analytics*
+
+Built and benchmarked forecasting models for stock price trends
+
+- **ARIMA · Prophet · GARCH · LSTM**
+- Performance evaluation using RMSE
+- Data preprocessing & volatility analysis
+
+</td>
+<td width="50%">
+
+### 🚗 Dynamic Pricing System
+*IIT Guwahati — Summer Analytics 2025*
+
+Real-time demand-based pricing for parking lots
+
+- Live streaming with **Pathway**
+- Occupancy, traffic & queue indicators
+- Visualised with **Bokeh + Panel**
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 💰 Top Billionaires Dashboard
+*Power BI*
+
+Interactive analysis of Forbes Billionaires data
+
+- Web scraped via **Excel Power Query**
+- Net worth trends & industry breakdown
+- Country-wise distribution maps
+
+</td>
+<td width="50%">
+
+### 🌐 More coming soon...
+*Currently building*
+
+Working on deep learning and computer vision projects in the medical imaging domain.
+
+- CNNs · Transfer Learning
+- PyTorch · Medical Datasets
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📜 Certifications
+
+<div align="center">
+
+| Badge | Certification |
+|:---:|---|
+| <img src="https://img.shields.io/badge/NVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white"/> | Getting Started with Deep Learning |
+| <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/> | Career Launchpad — Generative AI Leader Track |
+| <img src="https://img.shields.io/badge/Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white"/> | Career Essentials in Data Analysis |
+| <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/> | Cloud Essentials Knowledge Badge |
+| <img src="https://img.shields.io/badge/DataCamp-03EF62?style=flat-square&logo=datacamp&logoColor=black"/> | Big Data Fundamentals with PySpark |
+| <img src="https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white"/> | Getting Started with SAS Programming |
+| <img src="https://img.shields.io/badge/UNITAR-009EDB?style=flat-square&logoColor=white"/> | Understanding Data and Statistics Better |
+
+</div>
+
+<br/>
+
+## 🏆 Achievement
+
+> 🥇 **First Place** — Technical Quiz on AI, ML & Data Science
+> *AI Appreciation Day · Dept. of Data Science, Nirmala College Muvattupuzha*
+
+<br/>
+
+## 📣 Activities
+
+- 🎤 Resource Person — *"StatSpark: Igniting Curiosity With Data"*, National Statistics Day
+- 🧑‍🏫 Skill session on **Google Looker Studio** — Rajagiri College of Social Sciences, Kochi
+- 🌍 Coordinator — Collaborative programme with **Sefako Makgatho Health Sciences University**, South Africa
+- 🛠️ Technical workshop on software troubleshooting — Dept. of Statistics, Nirmala College
+
+<br/>
+
+## 🎯 Interests
+
+`📷 Photography` &nbsp; `🎨 Graphic Design` &nbsp; `💻 Technology` &nbsp; `✈️ Travel` &nbsp; `🎬 Movies` &nbsp; `🎵 Music`
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
