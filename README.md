@@ -7,7 +7,7 @@
 <br/>
 
 [![Email](https://img.shields.io/badge/-abhinav77000%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinav77000@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav77000)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Location](https://img.shields.io/badge/-Kerala,%20India-6D28D9?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 </div>
@@ -58,6 +58,20 @@ Mathematics and statistics graduate with hands-on experience in machine learning
 <br/>
 
 ## 💼 Experience
+
+<details open>
+<summary><b>🔬 Intern — Centre for Budget Studies, CUSAT</b> &nbsp;<code>May 2026 – Present</code></summary>
+
+<br/>
+
+- 📦 Collaborating on the development of custom **R packages** for advanced econometric and statistical analysis
+- 🔁 Coding algorithms for **time-series unit root tests** with double structural breaks
+- 📐 Implementing **cross-quantilogram frameworks** for quantile dependency analysis
+- 🧮 Developing programmatic functions for modified regression models, specialised mathematical means, and advanced deviation metrics
+
+</details>
+
+<br/>
 
 <details open>
 <summary><b>🏢 Data Science Intern — UPSTA Analytics</b> &nbsp;<code>Nov 2025 – Dec 2025</code></summary>
@@ -116,13 +130,14 @@ Interactive analysis of Forbes Billionaires data
 </td>
 <td width="50%">
 
-### 🌐 More coming soon...
-*Currently building*
+### 💳 Credit Card Fraud Detection
+*Machine Learning · Python*
 
-Working on deep learning and computer vision projects in the medical imaging domain.
+Fraud detection on the IEEE-CIS e-commerce dataset
 
-- CNNs · Transfer Learning
-- PyTorch · Medical Datasets
+- Handled extreme class imbalance using **SMOTE**
+- **Random Forest** classifier outperforming Logistic Regression baseline
+- Minimised false positives balancing risk mitigation with customer experience
 
 </td>
 </tr>
