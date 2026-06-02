@@ -7,7 +7,7 @@
 <br/>
 
 [![Email](https://img.shields.io/badge/-abhinav77000%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinav77000@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav77000)
 [![Location](https://img.shields.io/badge/-Kerala,%20India-6D28D9?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 </div>
