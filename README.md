@@ -60,7 +60,7 @@ Mathematics and statistics graduate with hands-on experience in machine learning
 ## 💼 Experience
 
 <details open>
-<summary><b>🔬 Intern — Centre for Budget Studies, CUSAT</b> &nbsp;<code>May 2026 – Present</code></summary>
+<summary><b>🔬 Intern — Centre for Budget Studies, CUSAT</b> &nbsp;<code>May 2026</code></summary>
 
 <br/>
 
